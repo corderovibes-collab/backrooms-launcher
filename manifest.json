@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "name": "Backrooms: Streamer Survival",
- "packVersion": "1.0.1",
+ "packVersion": "1.0.2",
  "minecraft": "1.20.1",
  "fabricLoader": "0.15.11",
  "java": 17,
@@ -109,8 +109,8 @@
   },
   {
    "path": "resourcepacks/TheBackrooms.zip",
-   "sha1": "4262fdca9c2bba220b39e77ec395ff037451159f",
-   "size": 2580870,
+   "sha1": "8ccec4dd477d0ec38ee5fa66d0a1e9ce57697d46",
+   "size": 2579995,
    "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/TheBackrooms.zip"
   },
   {
