@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "name": "Backrooms: Streamer Survival",
- "packVersion": "1.0.0",
+ "packVersion": "1.0.1",
  "minecraft": "1.20.1",
  "fabricLoader": "0.15.11",
  "java": 17,
@@ -106,6 +106,19 @@
    "sha1": "f118bb85bc13fd431090cd2bcb3a501521ca6bd4",
    "size": 5271506,
    "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/voicechat-fabric-1.20.1-2.6.20.jar"
+  },
+  {
+   "path": "resourcepacks/TheBackrooms.zip",
+   "sha1": "4262fdca9c2bba220b39e77ec395ff037451159f",
+   "size": 2580870,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/TheBackrooms.zip"
+  },
+  {
+   "path": "options.txt",
+   "sha1": "97162f09a298acc4934290a432a94eb8ea0bf4db",
+   "size": 140,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/options.txt",
+   "once": true
   }
  ]
 }
