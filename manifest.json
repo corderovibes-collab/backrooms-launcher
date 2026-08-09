@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "name": "Backrooms: Streamer Survival",
- "packVersion": "1.0.2",
+ "packVersion": "1.0.3",
  "minecraft": "1.20.1",
  "fabricLoader": "0.15.11",
  "java": 17,
@@ -19,8 +19,8 @@
   },
   {
    "path": "mods/backrooms-streamer-survival-0.1.0-alpha.jar",
-   "sha1": "43d759ecd58320f74bf07cfd72f8b047f5bc3b56",
-   "size": 20683195,
+   "sha1": "1ac03607f690ea97972e33b67c71a7c52b196496",
+   "size": 20683013,
    "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/backrooms-streamer-survival-0.1.0-alpha.jar"
   },
   {
