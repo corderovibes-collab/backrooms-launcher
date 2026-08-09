@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "name": "Backrooms: Streamer Survival",
+ "packVersion": "1.0.0",
+ "minecraft": "1.20.1",
+ "fabricLoader": "0.15.11",
+ "java": 17,
+ "server": {
+  "host": "s12.mia.us.tarohosting.lat",
+  "port": 33085,
+  "name": "Backrooms: Streamer Survival"
+ },
+ "files": [
+  {
+   "path": "mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar",
+   "sha1": "9f0110b60dc752ca093f2fc10a72d221b6dc8ac3",
+   "size": 348818,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar"
+  },
+  {
+   "path": "mods/backrooms-streamer-survival-0.1.0-alpha.jar",
+   "sha1": "43d759ecd58320f74bf07cfd72f8b047f5bc3b56",
+   "size": 20683195,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/backrooms-streamer-survival-0.1.0-alpha.jar"
+  },
+  {
+   "path": "mods/decorative_blocks-fabric-1.20.1-4.1.3.jar",
+   "sha1": "26455641c583a36dd678a7614676a8c7185eefaf",
+   "size": 546719,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/decorative_blocks-fabric-1.20.1-4.1.3.jar"
+  },
+  {
+   "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar",
+   "sha1": "38196ee5bcfb3605f9bb9e52a45916b250216313",
+   "size": 223261,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar"
+  },
+  {
+   "path": "mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
+   "sha1": "eab31fb55739a789ce84d72ba4432297f1309ee5",
+   "size": 1592562,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/entityculling-fabric-1.10.5-mc1.20.1.jar"
+  },
+  {
+   "path": "mods/fabric-api-0.92.2+1.20.1.jar",
+   "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
+   "size": 2107289,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/fabric-api-0.92.2+1.20.1.jar"
+  },
+  {
+   "path": "mods/ferritecore-6.0.1-fabric.jar",
+   "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
+   "size": 125197,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/ferritecore-6.0.1-fabric.jar"
+  },
+  {
+   "path": "mods/geckolib-fabric-1.20.1-4.4.9.jar",
+   "sha1": "0a140e385c029bbedd5a62903c4b6c7bd451d71b",
+   "size": 1019731,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/geckolib-fabric-1.20.1-4.4.9.jar"
+  },
+  {
+   "path": "mods/immersive_furniture-fabric-0.3.0+1.20.1.jar",
+   "sha1": "d5f455146d392e951c01c9722e85eeaa68807847",
+   "size": 937463,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/immersive_furniture-fabric-0.3.0+1.20.1.jar"
+  },
+  {
+   "path": "mods/immersive_paintings-0.6.13+1.20.1-fabric.jar",
+   "sha1": "839de77944a40daa20398156034e9fa2af26ae31",
+   "size": 4854362,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/immersive_paintings-0.6.13+1.20.1-fabric.jar"
+  },
+  {
+   "path": "mods/indium-1.0.36+mc1.20.1.jar",
+   "sha1": "d824614e7a173d273167969f427702f51846aca7",
+   "size": 105382,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/indium-1.0.36+mc1.20.1.jar"
+  },
+  {
+   "path": "mods/lambdynamiclights-2.3.2+1.20.1.jar",
+   "sha1": "71b636fa74744e51ba2d248c81a38bdbfad5d43b",
+   "size": 573183,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/lambdynamiclights-2.3.2+1.20.1.jar"
+  },
+  {
+   "path": "mods/lithium-fabric-mc1.20.1-0.11.4.jar",
+   "sha1": "048227ed60a3005cf9fa55880dfe0cf20b0ba680",
+   "size": 691483,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/lithium-fabric-mc1.20.1-0.11.4.jar"
+  },
+  {
+   "path": "mods/paladin-furniture-mod-1.4.4-fabric-mc1.20.1.jar",
+   "sha1": "72f9410e62a8d306f4c76ce396cd83938092485c",
+   "size": 5790131,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/paladin-furniture-mod-1.4.4-fabric-mc1.20.1.jar"
+  },
+  {
+   "path": "mods/sodium-fabric-0.5.13+mc1.20.1.jar",
+   "sha1": "bcdbf37d9494e405cba210d7a80ed58e756297b5",
+   "size": 971552,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/sodium-fabric-0.5.13+mc1.20.1.jar"
+  },
+  {
+   "path": "mods/voicechat-fabric-1.20.1-2.6.20.jar",
+   "sha1": "f118bb85bc13fd431090cd2bcb3a501521ca6bd4",
+   "size": 5271506,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/voicechat-fabric-1.20.1-2.6.20.jar"
+  }
+ ]
+}
