@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "name": "Backrooms: Streamer Survival",
- "packVersion": "1.0.11",
+ "packVersion": "1.0.12",
  "minecraft": "1.20.1",
  "fabricLoader": "0.15.11",
  "java": 17,
@@ -19,9 +19,9 @@
   },
   {
    "path": "mods/backrooms-streamer-survival-0.1.0-alpha.jar",
-   "sha1": "c9f6b659f5509cc8db0b1c1c02fe701844739cd1",
-   "size": 20736859,
-   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/bss-1.0.11.jar"
+   "sha1": "49e73d0a179e9b97e4998b995ca5fcab4229b8d9",
+   "size": 20737942,
+   "url": "https://github.com/corderovibes-collab/backrooms-launcher/releases/download/pack-1.0.0/bss-1.0.12.jar"
   },
   {
    "path": "mods/decorative_blocks-fabric-1.20.1-4.1.3.jar",
